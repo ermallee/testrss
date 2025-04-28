@@ -1,29 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:content="http://purl.org/rss/1.0/modules/content/"
-    xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
-    xmlns:media="http://search.yahoo.com/mrss/">
-    <channel>
-        <title><![CDATA[Noah Klein 614Lyfe Page]]></title>
-        <description><![CDATA[Noah Klein 614Lyfe Page]]></description>
-        <link>https://www.facebook.com/614Lyfe</link>
-        <image>
-            <url>https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico</url>
-            <title>Noah Klein 614Lyfe Page</title>
-            <link>https://www.facebook.com/614Lyfe</link>
-        </image>
-        <generator>https://rss.app</generator>
-        <lastBuildDate>Mon, 28 Apr 2025 13:38:29 GMT</lastBuildDate>
-        <atom:link href="https://rss.app/feeds/eJnsvx6UU1dObN2w.xml" rel="self" type="application/rss+xml"/>
-        <language><![CDATA[en]]></language>
-        <item>
-            <title><![CDATA[Mexican Doritos Pizza 🍕]]></title>
-            <description><![CDATA[<div><img src="https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/491722974_692585647054328_3234056111295354416_n.jpg?stp=dst-jpg_p600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=40d385&_nc_ohc=-lAu5MJ7uMYQ7kNvwHCUlLn&_nc_oc=AdlEZjVtTTktvn0wSjXd6hx3Q9zhAraJNvY_HWDAOsWTNgGZcb9OOCixbiDXURbkMgI&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=B_eoDDyC6waUCn9VmSoRGQ&oh=00_AfG8ejRp9Un-KZRMo0HwY03u_Bd521yHlD1ecaudHklooQ&oe=6814CB3B" style="width: 100%;" /><div>Mexican Doritos Pizza 🍕</div></div>]]></description>
-            <link>https://www.facebook.com/614Lyfe/videos/2945892568922795/</link>
-            <guid isPermaLink="false">fa1385b50bd1d3e1a5968ca290d98c11</guid>
-            <dc:creator><![CDATA[Noah Klein 614Lyfe]]></dc:creator>
-            <pubDate>Sun, 28 Apr 2025 15:20:42 GMT</pubDate>
-            <media:content medium="video" url="https://ff6b92d158601311ec3d75a1eb3ae385d88cc0fe304192d09945155-apidata.googleusercontent.com/download/storage/v1/b/trendly_facebook_videos/o/409230415826093%2F2945892568922795.mp4?jk=AVJhS7suYCp_b6XW50FcvKzz1pco1T8BAOQNMCjAhjtr4Ru94J6av15YrObT8gl010EP7xGI4rpJHPUoW79r5c5jraJkIPbcRN7_wviDQsg7-NcX6jzPVLa_srVJlqNMECEpJQadiEAhqDvQ6iIV3W2957eutPZ6-wWZ09lPD3wHc6ZiTGx6Asdcohpt-GE-mZfCZWoxLcA8OKQP6-h8Z6X50z2OI1usfaLhyYRYJYh7uOZFZBYzHy3oCJLm2BFTp0tL6P-kR8IUnX7Dwry3Ja1ZnuPEpcR4BhFneZd8O6E1KRU5MucGbydATFEtmU3vS90IF9unN8QW2_IzrD4Tg7QdD2N276JMW1810NpbKbfLk8mEmZ6geldFc7dPcqowP_EvmKwg1J0m-xlYP0vo-UbBluPBBEvKr6ybcsPHzckDZ0kr9LKx3_9MkVpTXKSJAChtyqip5VctFR4rEOCXE0ZWpuqp4xpT76-z283LklQVla2kBgRWWzNHiYX1ln28OHDXywp8EIg2h8iC1e6Gx2SDoAwUiVqKLMJyciX3sQvmXKb10O2wnxrRHMk_dz8z9GUSrpFP-Lg9DymjqcwYwZYjDpUfVqVQBzNSxmFmj5EaGLHW8_qvHFYrgG6SK2UsKnzK_chB8oQk-10GJf820QJlLP3--7uzOfyasu519sSyFj3egI8j3JVxtthoDyGDLJihRfYGWvUEH8tE-Mnmdl565TL7EBixxdiZJNEWOzmxLGSetlrdLpXmGf4dqwKDa6Ui3o7Emwe49FJ5kerNXiDuUtVucXCODB0CiqpN8DvW686MUyxNDzYBDLA2EhskLs2fkawgr7Bj71pP9YYipScgRr9kIDfFaH6ky1gxAA9bfZAu4_GOO58fXDyEd2EfgDNARn_XqXynQey6UXBh9cY8hbpQie8kCBDaVS4RN0T4VJsi4Kn30zWH3BShBFf0xXTjdFEfcN4BpBxhkVnB9IoWw4nAidecHMKn0h7yjmxEDoQFQ1iQyeg8Zjhc8QHo66LjCAVIumgdqDLoTP7KmdnWtH63FLqQ0D5XdsoZNczZBgd_2Tm4ge6QjabvFbLiV0lhAJymAI1sMFfEdwNJKZQpDBunVDTeMV_7kEkNY4hpTkPYD56kVGPn9EATMZWlTURm_KdeR3HiyKEaExcQ1-goJsSn_9zBXV8_82vQapqoZEkBTqlCxffDZ92A9MxFBjUlJB4b5nGKAEl9sbc_aBCeBw&amp;isca=1"/>
-        </item>
-    </channel>
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     version="2.0">
+  <channel>
+    <title><![CDATA[Noah Klein 614Lyfe Page]]></title>
+    <description><![CDATA[Noah Klein 614Lyfe Page]]></description>
+    <link>https://www.facebook.com/614Lyfe</link>
+
+    <image>
+      <url>https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico</url>
+      <title>Noah Klein 614Lyfe Page</title>
+      <link>https://www.facebook.com/614Lyfe</link>
+    </image>
+
+    <generator>https://rss.app</generator>
+    <lastBuildDate>Mon, 28 Apr 2025 13:38:29 GMT</lastBuildDate>
+    <atom:link href="https://rss.app/feeds/eJnsvx6UU1dObN2w.xml"
+               rel="self"
+               type="application/rss+xml"/>
+    <language>en</language>
+
+    <item>
+      <title><![CDATA[Mexican Doritos Pizza 🍕]]></title>
+
+      <description><![CDATA[
+        <div>
+          <img src="https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/491722974_692585647054328_3234056111295354416_n.jpg?stp=dst-jpg_p600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=40d385&_nc_ohc=-lAu5MJ7uMYQ7kNvwHCUlLn&_nc_oc=AdlEZjVtTTktvn0wSjXd6hx3Q9zhAraJNvY_HWDAOsWTNgGZcb9OOCixbiDXURbkMgI&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=B_eoDDyC6waUCn9VmSoRGQ&oh=00_AfG8ejRp9Un-KZRMo0HwY03u_Bd521yHlD1ecaudHklooQ&oe=6814CB3B"
+               style="width: 100%;" />
+          <div>Mexican Doritos Pizza 🍕</div>
+        </div>
+      ]]></description>
+
+      <link>https://www.facebook.com/614Lyfe/videos/2945892568922795/</link>
+
+      <guid isPermaLink="false">fa1385b50bd1d3e1a5968ca290d98c11</guid>
+      <dc:creator><![CDATA[Noah Klein 614Lyfe]]></dc:creator>
+      <pubDate>Sun, 28 Apr 2025 15:20:42 GMT</pubDate>
+
+      <media:content medium="image"
+                     url="https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/491722974_692585647054328_3234056111295354416_n.jpg?stp=dst-jpg_p600x600_tt6&amp;_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=40d385&amp;_nc_ohc=-lAu5MJ7uMYQ7kNvwHCUlLn&amp;_nc_oc=AdlEZjVtTTktvn0wSjXd6hx3Q9zhAraJNvY_HWDAOsWTNgGZcb9OOCixbiDXURbkMgI&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc3-1.xx&amp;_nc_gid=B_eoDDyC6waUCn9VmSoRGQ&amp;oh=00_AfG8ejRp9Un-KZRMo0HwY03u_Bd521yHlD1ecaudHklooQ&amp;oe=6814CB3B" />
+
+      <content:encoded><![CDATA[
+        https://storage.googleapis.com/trendly_facebook_videos/409230415826093/2945892568922795.mp4
+      ]]></content:encoded>
+
+    </item>
+  </channel>
 </rss>
