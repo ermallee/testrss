@@ -1,18 +1,34 @@
-<item>
-  <guid isPermaLink="false">fa1385b50bd1d3e1a5968ca290d98c11</guid>
-  <title><![CDATA[Mexican Doritos Pizza 🍕]]></title>
-  <pubDate>Mon, 28 Apr 2025 19:40:29 GMT</pubDate>
-  <link>https://www.facebook.com/614Lyfe/videos/2945892568922795/</link>
-  <dc:creator><![CDATA[Noah Klein 614Lyfe]]></dc:creator>
-  <description><![CDATA[A delicious twist on pizza—Doritos crust!]]></description>
-  <content:encoded><![CDATA[
-    <p>Check out our latest creation:</p>
-    <iframe
-      src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F614Lyfe%2Fvideos%2F2945892568922795%2F&show_text=false&width=500"
-      width="500"
-      height="281"
-      frameborder="0"
-      allowfullscreen="true">
-    </iframe>
-  ]]></content:encoded>
-</item>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss
+  version="2.0"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  
+  <channel>
+    <title><![CDATA[Noah Klein 614Lyfe Page]]></title>
+    <link>https://www.facebook.com/614Lyfe</link>
+    <description><![CDATA[Noah Klein’s Facebook video feed]]></description>
+    <language>en</language>
+    <lastBuildDate>Wed, 30 Apr 2025 12:00:00 GMT</lastBuildDate>
+    <atom:link
+      href="https://yourdomain.com/feeds/614lyfe.xml"
+      rel="self"
+      type="application/rss+xml" />
+    <item>
+      <guid isPermaLink="false">fa1385b50bd1d3e1a5968ca290d98c11</guid>
+      <title><![CDATA[Mexican Doritos Pizza 🍕]]></title>
+      <link>https://www.facebook.com/614Lyfe/videos/2945892568922795/</link>
+      <dc:creator><![CDATA[Noah Klein 614Lyfe]]></dc:creator>
+      <pubDate>Mon, 28 Apr 2025 19:40:29 GMT</pubDate>
+      <content:encoded><![CDATA[
+        <p>Check out our latest creation:</p>
+        <iframe
+          src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F614Lyfe%2Fvideos%2F2945892568922795%2F&show_text=false&width=500"
+          width="500" height="281" frameborder="0" allowfullscreen="true">
+        </iframe>
+      ]]></content:encoded>
+    </item>
+
+  </channel>
+</rss>
