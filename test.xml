@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss
   version="2.0"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:atom="http://www.w3.org/2005/Atom">
-
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title><![CDATA[Noah Klein 614Lyfe Page]]></title>
     <link>https://www.facebook.com/614Lyfe</link>
-    <description><![CDATA[Noah Klein’s Facebook video feed]]></description>
-    <language>en</language>
+    <description><![CDATA[Your Facebook video feed]]></description>
+    <language>en-us</language>
     <lastBuildDate>Wed, 30 Apr 2025 12:00:00 GMT</lastBuildDate>
     <atom:link
-      href="https://yourdomain.com/feeds/614lyfe.xml"
+      href="https://example.com/feeds/614lyfe.xml"
       rel="self"
-      type="application/rss+xml" />
+      type="application/rss+xml"/>
 
     <item>
       <guid isPermaLink="false">fa1385b50bd1d3e1a5968ca290d98c11</guid>
@@ -22,15 +21,17 @@
       <link>https://www.facebook.com/614Lyfe/videos/2945892568922795/</link>
       <dc:creator><![CDATA[Noah Klein 614Lyfe]]></dc:creator>
       <pubDate>Mon, 28 Apr 2025 19:40:29 GMT</pubDate>
-      <content:encoded><![CDATA[
-        <p>Check out our latest creation:</p>
-        <iframe
-          src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F614Lyfe%2Fvideos%2F2945892568922795%2F&show_text=false&width=500"
-          width="500" height="281"
-          frameborder="0"
-          allowfullscreen="true">
-        </iframe>
-      ]]></content:encoded>
+
+      <media:content
+        url="https://scontent-dfw5-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQPM_IGHzJhorXUWCWT-1hHEqHHuyG3-q6M8fG5bV6Alk8yeU-mFsQ_D6YlQZfulz64RZrq-zvtXEoROTBSP5b72.mp4?…"
+        type="video/mp4"
+        medium="video"
+        duration="60">
+        <media:thumbnail url="https://scontent-dfw5-1.xx.fbcdn.net/v/t15.5256-10/491722974_692585647054328_3234056111295354416_n.jpg"/>
+        <media:title><![CDATA[Mexican Doritos Pizza 🍕]]></media:title>
+        <media:description><![CDATA[A delicious Doritos-crust pizza—watch it in action!]]></media:description>
+        <media:credit><![CDATA[Noah Klein / 614Lyfe]]></media:credit>
+      </media:content>
     </item>
 
   </channel>
